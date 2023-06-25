@@ -3491,17 +3491,17 @@
       (net 17 "SWO") (pinfunction "1") (pintype "passive") (tstamp af01c38c-af0c-425a-8c76-59cf04433364))
   )
 
-  (footprint "framework-debug-probe:pretzel" (layer "B.Cu")
+  (footprint "Connectors:pretzel" (layer "B.Cu")
     (tstamp 833133c6-223a-4487-9a70-b33cd09c157f)
     (at 132.42 86.5 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0 90) (layer "B.SilkS") hide
+    (fp_text reference "G***" (at 0 0 270) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-      (tstamp 0d45212b-c7eb-4b0a-abca-27330877757e)
+      (tstamp 7f5f3910-b78b-462d-b38f-225270d81790)
     )
-    (fp_text value "LOGO" (at 0.75 0 90) (layer "B.SilkS") hide
+    (fp_text value "LOGO" (at 0.75 0 270) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-      (tstamp 556a3d08-f85f-4ff2-bd4c-34411024cc20)
+      (tstamp cf73e65f-731e-488f-96a6-376a6ccb445f)
     )
     (fp_poly
       (pts
@@ -4585,7 +4585,7 @@
         (xy 0.86927 2.569736)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp df92b9b6-39e2-4208-b801-8a1783fb75d6))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 2756756b-3f95-4e86-9757-daf077af4b49))
   )
 
   (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm" (layer "B.Cu")

@@ -3,5 +3,4 @@
   (lib (name "Expansion_Card")(type "KiCad")(uri "${KIPRJMOD}/Expansion_Card.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/footprints.pretty")(options "")(descr ""))
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
-  (lib (name "framework-debug-probe")(type "KiCad")(uri "/home/jack/git/framework-debug-probe")(options "")(descr ""))
 )
