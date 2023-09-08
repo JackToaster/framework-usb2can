@@ -3,4 +3,5 @@
   (lib (name "Expansion_Card")(type "KiCad")(uri "${KIPRJMOD}/Expansion_Card.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/footprints.pretty")(options "")(descr ""))
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
+  (lib (name "tcan1042")(type "KiCad")(uri "${KIPRJMOD}/ul_TCAN1042HGVDQ1/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

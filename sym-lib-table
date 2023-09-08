@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2023-04-20_05-50-10")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/2023-04-20_05-50-10.kicad_sym")(options "")(descr ""))
   (lib (name "Debug_Probe_FET")(type "KiCad")(uri "${KIPRJMOD}/Debug_Probe_FET.kicad_sym")(options "")(descr ""))
+  (lib (name "TCAN1042")(type "KiCad")(uri "${KIPRJMOD}/ul_TCAN1042HGVDQ1/KiCADv6/2023-09-04_20-41-31.kicad_sym")(options "")(descr ""))
 )
