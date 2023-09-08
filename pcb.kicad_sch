@@ -1368,7 +1368,7 @@
       (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 0 -5.08 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "https://katalog.we-online.de/pbs/datasheet/82400102.pdf" (at 0 -6.35 0)
+      (property "Datasheet" "https://www.we-online.com/components/products/datasheet/82400102.pdf" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "ESD Protection TVS High-speed USB" (at 0 0 0)
@@ -1381,10 +1381,6 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "WE-TVS-82400102_0_1"
-        (rectangle (start -5.08 3.81) (end 5.08 -3.81)
-          (stroke (width 0) (type default))
-          (fill (type background))
-        )
         (circle (center -4.064 0) (radius 0.127)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -1561,6 +1557,10 @@
         )
       )
       (symbol "WE-TVS-82400102_1_1"
+        (rectangle (start -5.08 3.81) (end 5.08 -3.81)
+          (stroke (width 0.254) (type default))
+          (fill (type background))
+        )
         (polyline
           (pts
             (xy 3.175 0.635)
@@ -2681,6 +2681,10 @@
     (uuid ca0d4923-bb44-4d84-bbb8-1a16ce105f4e)
   )
 
+  (wire (pts (xy 228.6 57.15) (xy 246.38 57.15))
+    (stroke (width 0) (type default))
+    (uuid cab9eea7-6d01-4c81-bff7-b9ada0927fba)
+  )
   (wire (pts (xy 80.01 149.86) (xy 90.17 149.86))
     (stroke (width 0) (type default))
     (uuid cbf35382-fadc-4637-9c8f-b3f9379fee36)
@@ -2810,10 +2814,6 @@
   (wire (pts (xy 49.53 142.24) (xy 39.37 142.24))
     (stroke (width 0) (type default))
     (uuid fd7fa5d5-0c87-420a-82fe-fe884bc6c830)
-  )
-  (wire (pts (xy 228.6 57.15) (xy 246.38 57.15))
-    (stroke (width 0) (type default))
-    (uuid fe32ca4e-b4a3-41ef-940a-6e604da2d297)
   )
 
   (text "Programming/debug header.\nPlace in an accessible location close to the mcu."
@@ -4370,7 +4370,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 81.28 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://katalog.we-online.de/pbs/datasheet/82400102.pdf" (at 81.28 62.23 0)
+    (property "Datasheet" "https://www.we-online.com/components/products/datasheet/82400102.pdf" (at 81.28 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C5180249" (at 81.28 55.88 0)
