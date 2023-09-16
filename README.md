@@ -1,4 +1,4 @@
-# framework Debug Probe
-![kibot status](https://github.com/JackToaster/framework-debug-probe/actions/workflows/kibot.yml/badge.svg)
+# framework CAN Interface
+![kibot status](https://github.com/JackToaster/framework-usb2can/actions/workflows/kibot.yml/badge.svg)
 
-Debug probe built to run [Black Magic Probe](https://github.com/blackmagic-debug/blackmagic) firmware, and fit in an expansion bay of a Framework laptop.
+USB to CAN device that fits in a Framework laptop expansion card.
